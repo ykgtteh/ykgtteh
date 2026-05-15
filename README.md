@@ -25,7 +25,7 @@
 <p align="center">
   👋 Hello! I'm Naoya, a 16-year-old developer with over 3 and a half years of coding experience.  
   I’m deeply passionate about programming and technology, and I love creating projects that are both fun and useful.  
-  My work ranges from building **Discord bots**, developing **tools and automation scripts**, designing **websites**, and even experimenting with **cheats** for learning and testing purposes.  
+  My work ranges from building Discord bots, developing tools and automation scripts, designing websites, and even experimenting with cheats for learning and testing purposes.  
   I enjoy learning new technologies, improving my skills, and exploring creative ways to solve problems.  
   Development isn’t just a hobby for me—it’s a true passion that drives me to build and innovate every day.
 </p>
